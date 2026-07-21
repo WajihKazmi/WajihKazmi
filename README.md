@@ -1,103 +1,98 @@
-<h1 align="center">Hi there, I'm Wajih Kazmi 👋</h1>
-<h3 align="center">Flutter Developer | AI Student | Mobile App Developer from Pakistan 🇵🇰</h3>
+# Wajih Kazmi
+
+**Product engineer · Systems architect · Full-stack builder**
+
+I turn ideas into shipped products — from product definition and system design
+through mobile, web, backends, and realtime infrastructure.
+
+Based in Karachi · Building across Flutter, TypeScript, Node, and systems software
+
+---
+
+## How I work
+
+| Stage | What I own |
+| --- | --- |
+| **Idea → product** | Scope, UX flows, MVP cuts, go-to-market shape |
+| **Architecture** | Service boundaries, data models, realtime, auth, scaling paths |
+| **Build** | Flutter clients, Next.js / Node APIs, Postgres, cloud, CI |
+| **Ship** | Releases, dashboards, ops-minded defaults, iteration loops |
+
+I care about clarity: systems that stay understandable after the first demo,
+and products that feel finished in the first session.
+
+---
+
+## Tech stack
+
+**Clients**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Backend & data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Systems & craft**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JUCE](https://img.shields.io/badge/JUCE-8A2BE2?style=for-the-badge&logo=audio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## Selected products
+
+| Product | Role | Stack | Link |
+| --- | --- | --- | --- |
+| **Scorion** | Instrument design + audio systems | C++ · JUCE · VST3/AU | [scorion](https://github.com/WajihKazmi/scorion) |
+| **AssureFix** | Full-stack on-demand platform | Flutter · Next.js · Prisma | [AssureFix](https://github.com/WajihKazmi/AssureFix) |
+| **Crown Micro Solar** | IoT energy product | Flutter · realtime control | [Crown-Micro-Solar](https://github.com/WajihKazmi/Crown-Micro-Solar) |
+| **Ghost Lead Engine** | Lead ops product | TypeScript · scrapers · dashboard | [ghost-lead-engine](https://github.com/WajihKazmi/ghost-lead-engine) |
+| **BackBone** | Logistics admin + API | TypeScript · Node | [back-bone-admin](https://github.com/WajihKazmi/back-bone-admin) · [backend](https://github.com/WajihKazmi/back-bone-backend) |
+| **Pet & Collar** | Pet-care product | Flutter · Next.js · Supabase | [Pet-and-Collar](https://github.com/WajihKazmi/Pet-and-Collar) |
+
+---
+
+## GitHub stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat&color=blue" />
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=flat&color=yellow" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=WajihKazmi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajihKazmi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WajihKazmi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=WajihKazmi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## Focus areas
 
-- 🎓 AI Student at **FAST-NUCES**
-- 💙 Flutter Developer with **3+ years of experience**
-- 📱 Passionate about building scalable **Android & iOS applications**
-- 🔥 Experienced with **Flutter, Firebase, REST APIs & State Management**
-- 🤖 Interested in **Artificial Intelligence, Mobile Development & Backend Systems**
-- 🚀 Freelancing since **2022**
-- 📫 Reach me at **YOUR_EMAIL@example.com**
+- **Product systems** — mobile + web + API as one coherent product surface
+- **Realtime** — live status, messaging, IoT control loops
+- **Platform work** — admin panels, ops dashboards, logistics workflows
+- **Craft software** — audio instruments and performance-sensitive C++
 
 ---
 
-## 🏆 Achievements & Badges
+## Connect
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=6" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-WajihKazmi-181717?style=for-the-badge&logo=github)](https://github.com/WajihKazmi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wajih_Kazmi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wajih-kazmi-885b61266)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-Expert-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/AI-Student-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge" />
-</p>
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Provider-4285F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Riverpod-0175C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## 📱 Featured Projects
-
-- 🚚 **Zabardash** – E-commerce & Delivery App
-- ☀️ **Crown Monitor** – Solar Monitoring System
-- 💎 **Emerald Mining** – Mining Management Application
-- 🤝 **Befriend** – Social Networking App
-- 🚗 **SwytchSwap** – Smart Parking Finder
-- 📦 **MaalBardar** – Shipment Tracking Platform
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark" />
-</p>
-
----
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-⭐️ **Thanks for visiting my profile! If you like my work, don't forget to ⭐ my repositories!**
+Open to collaborations where the brief starts as an idea and needs to become a product.
